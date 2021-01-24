@@ -13,7 +13,7 @@ Arduino based "ghost" run recorder and player for slot cars
 * Menu control logic.
 * Race setup (Set max. speed, lap count, etc).
 * Race start (Sound and visual counter).
-* Race information (lap times and lap count for both lanes).
+* Race information (Lap times and lap count for both lanes).
 * Ghost car setup.
 * Ghost car recording.
-* Ghost car replay (ideally you can record in any lane and it will play in the other one at the same time).
+* Ghost car replay (Ideally you can record in any lane and it will play in the other one at the same time).
